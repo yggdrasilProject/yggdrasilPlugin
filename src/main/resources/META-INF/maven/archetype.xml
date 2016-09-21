@@ -1,7 +1,3 @@
 <archetype>
-  <id>yggdrasilPlugin</id>
-  <sources>
-    <source>src/main/java/ExamplePlugin.java</source>
-    <source>src/main/java/ExampleService.java</source>
-  </sources>
+    <id>yggdrasilPlugin</id>
 </archetype>
